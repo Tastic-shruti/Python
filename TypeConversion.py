@@ -1,0 +1,5 @@
+print(int(3.14))
+print(float(54//11))
+print(int("34"))
+print(str(5)+"Hello!!")
+print(float(56))
